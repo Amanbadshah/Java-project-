@@ -1,0 +1,20 @@
+package com.number;
+
+public class recrusion {
+	static int n=10,m=0;
+	static void display() {
+		if(n>m) {
+			m++;
+			
+			System.out.println(m);
+			display();
+			
+		}
+		
+	}
+	public static void main(String[] args) {
+		display();
+	}
+	
+
+}

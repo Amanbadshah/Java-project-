@@ -1,0 +1,44 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1 style="color:red;" align="center">Registration Form</h1>
+<form action="EmployeeController" method="post">
+<table align="center" border="1">
+<tr>
+<td>   ID:   <input type="text" name="eid" readonly="readonly" placeholder="DONT TYPE ">
+</td>
+</tr>
+<tr>
+<td> NAME:<input type="text" name="name"  placeholder=" TYPE " required="required">
+</td>
+</tr>
+<tr>
+<td> SALARY:<input type="number" name="salary"  placeholder=" TYPE " required="required">
+</td>
+</tr>
+<tr>
+<td> ADDRESS:<input type="text" name="address"  placeholder=" TYPE "required="required">
+</td>
+</tr>
+<tr>
+<td>FETCH:<input type="button" ></td>
+</tr>
+
+
+
+<td  align="center" >
+						<button type="submit">SUBMIT</button>
+						</td>
+
+
+</table>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,100 @@
+
+Apr 05, 2022 11:45:08.770 NEW SESSION
+Apr 05, 2022 11:45:08.770 [10884:9616:0405/114508.765:ERROR:device_event_log_impl.cc(214)] [11:45:08.766] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 05, 2022 11:45:08.771 [10884:9616:0405/114508.766:ERROR:device_event_log_impl.cc(214)] [11:45:08.766] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 05, 2022 11:46:05.391 [10884:6396:0405/114605.390:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Apr 09, 2022 14:46:52.970 NEW SESSION
+Apr 09, 2022 14:46:52.970 [11140:10188:0409/144652.966:ERROR:device_event_log_impl.cc(214)] [14:46:52.966] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 09, 2022 14:47:49.677 [11140:9300:0409/144749.676:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Apr 12, 2022 12:54:18.949 NEW SESSION
+Apr 12, 2022 12:54:18.949 [516:2404:0412/125418.946:ERROR:device_event_log_impl.cc(214)] [12:54:18.946] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2022 12:54:18.961 [516:2404:0412/125418.947:ERROR:device_event_log_impl.cc(214)] [12:54:18.947] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2022 12:55:15.295 [516:5744:0412/125515.294:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 12, 2022 14:45:26.975 [516:11488:0412/144526.974:ERROR:database.cc(1782)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Apr 12, 2022 15:53:31.479 [516:2404:0412/155331.477:ERROR:web_contents_delegate.cc(232)] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+Apr 12, 2022 15:53:31.480 [516:2404:0412/155331.477:ERROR:web_contents_delegate.cc(232)] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+Apr 12, 2022 16:14:49.680 [1804:5772:0412/161449.680:ERROR:device_event_log_impl.cc(214)] [16:14:49.680] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2022 16:15:44.945 [1804:400:0412/161544.944:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 12, 2022 16:16:02.613 [1804:11588:0412/161602.612:ERROR:database.cc(1782)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Apr 12, 2022 16:26:32.541 [5432:11004:0412/162632.540:ERROR:device_event_log_impl.cc(214)] [16:26:32.539] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2022 16:26:32.541 [5432:11004:0412/162632.541:ERROR:device_event_log_impl.cc(214)] [16:26:32.540] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2022 16:27:27.804 [5432:13232:0412/162727.804:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 12, 2022 16:27:56.599 [5432:7560:0412/162756.599:ERROR:database.cc(1782)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Apr 12, 2022 16:46:56.997 [5432:11004:0412/164656.997:ERROR:device_event_log_impl.cc(214)] [16:46:56.997] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+
+Apr 13, 2022 11:34:37.682 NEW SESSION
+Apr 13, 2022 11:34:37.682 [8152:4688:0413/113437.679:ERROR:device_event_log_impl.cc(214)] [11:34:37.679] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2022 11:35:32.947 [8152:9936:0413/113532.947:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 13, 2022 11:50:29.513 [7372:8712:0413/115029.512:ERROR:device_event_log_impl.cc(214)] [11:50:29.511] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2022 11:51:25.887 [7372:11404:0413/115125.886:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 13, 2022 12:35:38.435 [10864:5284:0413/123538.435:ERROR:device_event_log_impl.cc(214)] [12:35:38.435] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2022 12:36:34.921 [10864:6908:0413/123634.919:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 13, 2022 14:12:34.296 [10864:5284:0413/141234.295:ERROR:device_event_log_impl.cc(214)] [14:12:34.295] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Apr 13, 2022 14:25:16.932 [2004:4080:0413/142516.931:ERROR:device_event_log_impl.cc(214)] [14:25:16.931] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2022 14:26:13.422 [2004:7864:0413/142613.422:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 13, 2022 15:02:59.819 [2004:4080:0413/150259.818:ERROR:device_event_log_impl.cc(214)] [15:02:59.818] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Apr 13, 2022 15:57:10.77 [10676:6128:0413/155710.076:ERROR:device_event_log_impl.cc(214)] [15:57:10.075] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2022 15:58:05.570 [10676:9228:0413/155805.570:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 13, 2022 15:58:24.547 [10676:10524:0413/155824.546:ERROR:database.cc(1782)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Apr 13, 2022 15:59:40.815 [7400:7696:0413/155940.815:ERROR:device_event_log_impl.cc(214)] [15:59:40.815] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2022 16:00:35.794 [7400:8988:0413/160035.794:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 13, 2022 16:03:20.353 [7400:4000:0413/160320.352:ERROR:database.cc(1782)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Apr 13, 2022 16:07:29.747 [6648:5648:0413/160729.746:ERROR:device_event_log_impl.cc(214)] [16:07:29.746] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2022 16:07:29.748 [6648:5648:0413/160729.747:ERROR:device_event_log_impl.cc(214)] [16:07:29.746] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2022 16:08:25.741 [6648:12388:0413/160825.740:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 13, 2022 16:24:05.241 [6648:8312:0413/162405.241:ERROR:database.cc(1782)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+
+Apr 14, 2022 17:56:57.431 NEW SESSION
+Apr 14, 2022 17:56:57.431 [9048:7888:0414/175657.429:ERROR:device_event_log_impl.cc(214)] [17:56:57.429] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2022 17:57:03.147 [9048:5752:0414/175703.146:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2022 17:57:26.592 [9048:5752:0414/175726.591:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2022 17:57:52.449 [9048:9164:0414/175752.449:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 14, 2022 17:58:22.110 [9048:5752:0414/175822.109:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2022 18:00:16.25 [9048:5752:0414/180016.025:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Apr 15, 2022 16:40:35.136 NEW SESSION
+Apr 15, 2022 16:40:35.136 [708:5304:0415/164035.076:ERROR:device_event_log_impl.cc(214)] [16:40:35.076] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2022 16:40:35.174 [708:5304:0415/164035.077:ERROR:device_event_log_impl.cc(214)] [16:40:35.077] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2022 17:07:30.317 [8780:4848:0415/170730.316:ERROR:device_event_log_impl.cc(214)] [17:07:30.316] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2022 17:07:30.318 [8780:4848:0415/170730.317:ERROR:device_event_log_impl.cc(214)] [17:07:30.317] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2022 17:08:33.542 [10624:7992:0415/170833.542:ERROR:device_event_log_impl.cc(214)] [17:08:33.542] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2022 17:08:33.543 [10624:7992:0415/170833.543:ERROR:device_event_log_impl.cc(214)] [17:08:33.542] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2022 17:09:29.904 [10624:7276:0415/170929.903:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Apr 16, 2022 12:54:23.105 NEW SESSION
+Apr 16, 2022 12:54:23.105 [6944:8156:0416/125423.082:ERROR:device_event_log_impl.cc(214)] [12:54:23.082] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 16, 2022 12:55:34.322 [6728:10560:0416/125534.322:ERROR:device_event_log_impl.cc(214)] [12:55:34.322] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 16, 2022 12:56:30.809 [6728:11588:0416/125630.808:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 16, 2022 13:52:22.564 [6728:3176:0416/135222.564:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Apr 16, 2022 15:03:35.359 [6728:3176:0416/150335.358:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Jun 01, 2022 11:32:54.729 NEW SESSION
+Jun 01, 2022 11:32:54.729 [10028:9724:0601/113254.725:ERROR:device_event_log_impl.cc(214)] [11:32:54.725] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 01, 2022 11:33:50.980 [10028:9840:0601/113350.980:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jun 01, 2022 14:17:06.718 [10028:2344:0601/141704.025:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Jun 01, 2022 14:17:06.721 [10028:2344:0601/141706.044:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2022 14:17:25.847 [10028:9724:0601/141725.846:ERROR:device_event_log_impl.cc(214)] [14:17:25.846] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 01, 2022 16:22:32.884 [10028:2344:0601/162232.882:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2022 16:22:32.891 [10028:9128:0601/162232.890:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 01, 2022 16:33:50.962 [10028:5088:0601/163350.961:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jun 02, 2022 11:07:00.124 NEW SESSION
+Jun 02, 2022 11:07:00.124 [10112:2052:0602/110700.121:ERROR:device_event_log_impl.cc(214)] [11:07:00.121] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 02, 2022 11:20:14.989 [11124:13288:0602/112014.988:ERROR:device_event_log_impl.cc(214)] [11:20:14.988] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 02, 2022 11:21:11.574 [11124:9640:0602/112111.573:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jun 02, 2022 11:30:04.14 [2736:1004:0602/113004.014:ERROR:device_event_log_impl.cc(214)] [11:30:04.013] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 02, 2022 11:31:00.964 [2736:860:0602/113100.963:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jun 02, 2022 12:54:26.57 [2736:1504:0602/125426.056:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2022 13:02:53.716 [8088:11212:0602/130253.715:ERROR:device_event_log_impl.cc(214)] [13:02:53.716] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 02, 2022 13:03:21.938 [2612:7660:0602/130321.938:ERROR:device_event_log_impl.cc(214)] [13:03:21.937] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 02, 2022 13:03:21.939 [2612:7660:0602/130321.939:ERROR:device_event_log_impl.cc(214)] [13:03:21.938] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 02, 2022 13:04:18.523 [2612:7684:0602/130418.522:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jun 02, 2022 14:17:56.174 [11584:9444:0602/141756.173:ERROR:device_event_log_impl.cc(214)] [14:17:56.173] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 02, 2022 14:18:52.871 [11584:5424:0602/141852.870:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jun 03, 2022 15:07:28.929 NEW SESSION
+Jun 03, 2022 15:07:28.930 [9560:6288:0603/150728.926:ERROR:device_event_log_impl.cc(214)] [15:07:28.926] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 03, 2022 15:08:25.382 [9560:2536:0603/150825.381:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jun 03, 2022 15:23:57.814 [9560:6288:0603/152357.813:ERROR:device_event_log_impl.cc(214)] [15:23:57.813] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)

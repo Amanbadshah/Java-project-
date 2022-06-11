@@ -1,0 +1,11 @@
+package com.springcorejavaconfig;
+
+import org.springframework.stereotype.Component;
+
+
+public class Student {
+	public void study() {
+		System.out.println("Hello");
+	}
+
+}

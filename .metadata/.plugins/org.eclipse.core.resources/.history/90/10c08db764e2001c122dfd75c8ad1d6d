@@ -1,0 +1,61 @@
+package com.pro.daolmpl;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
+
+import com.pro.dao.EmployeeDao;
+import com.pro.pojo.Employee;
+import com.pro.utility.Dbconnection;
+
+public class EmployeeDaoImpL implements EmployeeDao {
+	Connection con;
+	static PreparedStatement ps;
+	
+	@Override
+	public void create(Employee e) {
+		// TODO Auto-generated method stub
+		Connection con = Dbconnection.getConnection();
+		
+		String query="insert into  Employee(name,salary,address) values(?,?,?)";
+		try {
+		ps	= con.prepareStatement(query);
+		ps.setString(1, e.getName());
+		ps.setDouble(2,  e.getSalary());
+		ps.setString(3, e.getAddress());
+		ps.executeUpdate();
+		con.close();
+		
+		
+		
+		
+		} catch (SQLException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		
+		}
+
+	@Override
+	public List<Employee> read() {
+		// TODO Auto-generated method stub
+		String query="select * from Employee";
+		
+		
+		
+		
+		
+		return null;
+		
+		
+	}
+
+
+
+
+		
+	
+}

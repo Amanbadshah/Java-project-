@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>ADD USER</title>
+</head>
+<body>
+<h1>REGISTRATION</h1>
+<form action="create" method="post">
+<table>
+<tr>
+<td>First Name:<input name="first_name" placeholder="TYPE HERE"></td>
+</tr>
+<tr>
+<td>Last Name:<input name="last_name" placeholder="TYPE HERE"></td>
+</tr>
+<tr>
+<td>Gmail:<input name="gmail" placeholder="TYPE HERE"></td>
+</tr>
+<tr>
+<td>Password:<input name="password" placeholder="TYPE HERE"></td>
+</tr>
+<td><button type="submit" >SUBMIT</button></td>
+
+
+</table>
+</form>
+
+</body>
+</html>

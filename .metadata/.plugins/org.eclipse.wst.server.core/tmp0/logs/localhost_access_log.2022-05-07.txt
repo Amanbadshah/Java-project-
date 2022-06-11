@@ -1,0 +1,9 @@
+127.0.0.1 - - [07/May/2022:16:08:16 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/May/2022:16:08:17 +0530] "GET /ServletTech/First.jsp HTTP/1.1" 200 183
+0:0:0:0:0:0:0:1 - - [07/May/2022:16:08:17 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/May/2022:16:09:01 +0530] "GET /ServletTech/First.jsp HTTP/1.1" 200 195
+0:0:0:0:0:0:0:1 - - [07/May/2022:16:09:06 +0530] "GET /ServletTech/First.jsp HTTP/1.1" 200 195
+0:0:0:0:0:0:0:1 - - [07/May/2022:16:09:39 +0530] "GET /ServletTech/First.jsp HTTP/1.1" 200 205
+0:0:0:0:0:0:0:1 - - [07/May/2022:16:09:39 +0530] "GET /ServletTech/First.jsp HTTP/1.1" 200 205
+0:0:0:0:0:0:0:1 - - [07/May/2022:16:09:39 +0530] "GET /ServletTech/First.jsp HTTP/1.1" 200 205
+0:0:0:0:0:0:0:1 - - [07/May/2022:16:09:39 +0530] "GET /ServletTech/First.jsp HTTP/1.1" 200 205

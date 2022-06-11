@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;com.pr.pojo&apos; to &apos;CRUD-SERVLET&apos;" description="Rename resource &apos;com.pr.pojo&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/com.pr.pojo" name="CRUD-SERVLET" stamp="1653992209748" updateReferences="true"/>
+</session>

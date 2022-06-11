@@ -1,0 +1,17 @@
+package com.array;
+
+public class recuriosn {
+	static int n=10,count=0,sum;
+	static void print() {
+		if(n>count) {
+			count++;
+			//sum=sum+count;
+			System.out.println(count);
+			//print();
+		}
+	}
+public static void main(String[] args) {
+	print();
+	//System.out.println(sum);
+}
+}

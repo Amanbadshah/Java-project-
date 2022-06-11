@@ -1,0 +1,53 @@
+package Student.Mange;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class start {
+	/**
+	 * @param args
+	 * @throws IOException
+	 */
+	public static void main(String[] args)throws IOException {
+		System.out.println("Welcome to Student Mangement:");
+		BufferedReader bd=new BufferedReader(new InputStreamReader(System.in));
+		while(true) {
+			System.out.println("PRESS 1 TO  ADD STUDENT:");
+			System.out.println("PRESS 2 TO DELET STUDENT:");
+			System.out.println("PRESS 3 TO DISPLAY STUDENT:");
+			System.out.println("PRESS 4 TO EXIT MANAGEMENT:");
+		    int a=Integer.parseInt(bd.readLine());
+		    if(a==1) {
+		    	System.out.println("Enter user Name:");
+		    	String Name=bd.readLine();
+		    	System.out.println("Enter user Age:");
+		    	String Age=bd.readLine();
+		    	studentclass sc=new studentclass(Name,Age);
+		    	boolean ans=Studentclass.insertDb(sc);
+		    	if(ans) {
+		    		System.out.println("Success fully....");	
+		    	}
+		    	else {
+		    		System.out.println("somthing went wrong....");
+		    	}
+		    	System.out.println(sc);
+		    	
+		    	
+		}
+		    else if(a==2) {
+	}
+		    else if(a==3) {
+		    	
+		    }
+		    else if(a==4) {
+		    break;	
+		    }
+		 
+		    else{
+		
+		}
+
+		}
+		System.out.println("Thank you...");
+		}}

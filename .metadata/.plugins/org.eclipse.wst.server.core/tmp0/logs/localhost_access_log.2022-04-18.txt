@@ -1,0 +1,7 @@
+127.0.0.1 - - [18/Apr/2022:11:52:17 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:11:52:18 +0530] "GET /RegistredForm/WEB-INF/classes/Demourl/com HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:11:52:18 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:11:52:26 +0530] "GET /RegistredForm/WEB-INF/classes/Demourl/com/index.html HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:11:52:39 +0530] "GET /RegistredForm/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:11:52:42 +0530] "POST /RegistredForm/Servlet1 HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:11:52:44 +0530] "GET /RegistredForm/servlet2?user_name=Waseem HTTP/1.1" 200 99

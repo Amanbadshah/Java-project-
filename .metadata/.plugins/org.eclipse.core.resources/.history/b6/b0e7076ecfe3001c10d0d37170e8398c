@@ -1,0 +1,25 @@
+package com.springcore.lifecycle;
+
+//by interface
+public class  {
+	private double price;
+
+	@Override
+	public String toString() {
+		return "Pespi [price=" + price + "]";
+	}
+
+	public Pespi() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public double getPrice() {
+		return price;
+	}
+
+	public void setPrice(double price) {
+		this.price = price;
+	}
+
+}

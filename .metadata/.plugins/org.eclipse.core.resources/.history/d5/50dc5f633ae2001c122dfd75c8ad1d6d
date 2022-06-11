@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>UPDATE</title>
+</head>
+<body>
+<tr>
+<td>Gmail:<input name="gmail" placeholder="TYPE HERE"></td>
+</tr>
+<tr>
+<td>Password:<input name="password" placeholder="TYPE HERE"></td>
+</tr>
+
+</body>
+</html>

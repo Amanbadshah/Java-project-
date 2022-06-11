@@ -1,0 +1,19 @@
+package com.springcore.lifecycle;
+
+public class Kachori {
+	private String  price;
+
+	public Kachori() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public String getPrice() {
+		return price;
+	}
+
+	public void setPrice(String price) {
+		this.price = price;
+	}
+
+}
